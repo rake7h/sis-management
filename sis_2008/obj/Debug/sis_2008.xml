@@ -1,0 +1,192 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+sis_2008
+</name>
+</assembly>
+<members>
+<member name="T:sis_2008.sis_dbDataSet.student_detailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sis_2008.sis_dbDataSet.student_detailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sis_2008.sis_dbDataSet.student_detailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sis_2008.sis_dbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sis_2008.sis_dbDataSetTableAdapters.student_detailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sis_2008.sis_dbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(sis_2008.sis_dbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sis_2008.sis_dbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(sis_2008.sis_dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sis_2008.sis_dbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(sis_2008.sis_dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sis_2008.sis_dbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sis_2008.sis_dbDataSetTableAdapters.TableAdapterManager.UpdateAll(sis_2008.sis_dbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sis_2008.sis_dbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sis_2008.sis_dbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sis_2008.sis_dbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.aboutsys">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.addstudnt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.findbttn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.help">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.pr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.user_200">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.x">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.x1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.x2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.x3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:sis_2008.My.Resources.Resources.x4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:sis_2008.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:sis_2008.student2010DataSet.cseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sis_2008.student2010DataSet._et_tDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:sis_2008.student2010DataSet.cseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sis_2008.student2010DataSet._et_tRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:sis_2008.student2010DataSet.cseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sis_2008.student2010DataSet._et_tRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:sis_2008.student2010DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:sis_2008.student2010DataSetTableAdapters.cseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:sis_2008.student2010DataSetTableAdapters.et_tTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:sis_2008.student2010DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(sis_2008.student2010DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:sis_2008.student2010DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(sis_2008.student2010DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:sis_2008.student2010DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(sis_2008.student2010DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:sis_2008.student2010DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:sis_2008.student2010DataSetTableAdapters.TableAdapterManager.UpdateAll(sis_2008.student2010DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:sis_2008.student2010DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:sis_2008.student2010DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:sis_2008.student2010DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

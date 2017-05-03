@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\finnaly\sis_2008\sis_2008\sis_2008\bin\Release\sis_2008.exe
+C:\Users\admin\Desktop\finnaly\sis_2008\sis_2008\sis_2008\bin\Release\sis_2008.pdb
+C:\Users\admin\Desktop\finnaly\sis_2008\sis_2008\sis_2008\bin\Release\sis_2008.xml
+C:\Users\admin\Desktop\finnaly\sis_2008\sis_2008\sis_2008\obj\Release\sis_2008.Form1.resources
+C:\Users\admin\Desktop\finnaly\sis_2008\sis_2008\sis_2008\obj\Release\sis_2008.Form2.resources
+C:\Users\admin\Desktop\finnaly\sis_2008\sis_2008\sis_2008\obj\Release\sis_2008.Resources.resources
+C:\Users\admin\Desktop\finnaly\sis_2008\sis_2008\sis_2008\obj\Release\sis_2008.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\finnaly\sis_2008\sis_2008\sis_2008\obj\Release\sis_2008.exe
+C:\Users\admin\Desktop\finnaly\sis_2008\sis_2008\sis_2008\obj\Release\sis_2008.xml
+C:\Users\admin\Desktop\finnaly\sis_2008\sis_2008\sis_2008\obj\Release\sis_2008.pdb
+C:\Users\admin\Desktop\finnaly\sis_2008\sis_2008\sis_2008\obj\Release\ResolveAssemblyReference.cache
